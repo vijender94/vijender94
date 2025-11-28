@@ -1,8 +1,8 @@
 # Vijender94
-### I am a Catalog and Purchase Order professional transitioning into the field of data analytics.
+### Catalog Lead at Amazon - Aspiring Data Analyst.
 ## About Me
 
-I am a Catalog and Purchase Order professional transitioning into the field of data analytics.
+I'm Vijender, Catalog and Purchase Order professional transitioning into the field of data analytics.
 
 I am passionate about uncovering actionable insights from data. The ability to transform raw information into meaningful patterns and strategies excites me.
 
